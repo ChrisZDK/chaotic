@@ -1,4 +1,19 @@
 {
 "_base": "https://raw.githubusercontent.com/ChrisZDK/chaotic/main/",
-"chaotic": ["bassoon.wav","femi.wav","radicalmind.wav"]
+"chaotic": ["bassoon.wav","femi.wav","radicalmind.wav"],
+"SpeedyJ": ["aSpeedy1.wav","bSpeedy2.wav"],
+"barok": ["barok_voice_shall.wav","barok_voice_shallall.wav","barok_voice_pain.wav","barok_voice_drop.wav","barok_voice_muu.wav","barok_voice_lute.wav","barok_voice_break.wav"],
+"break": ["1_break.wav", "2_break.wav", "3_break.wav", "4_break.wav", "5_break.wav", "6_break.wav", "7_break.wav"],
+"koala": ["1thespace.wav","2thespace.wav","almostblue.wav","atlast1.wav","atlast2.wav","atlast3.wav","atlast4.wav","deepforest.wav","shigeosekito.wav","waystar.wav"],
+"Serenissima_drums":["Serenissima_drums.wav"],
+"Serenissima_instru":["Serenissima_instru.wav"],
+"Serenissima_intro":["Serenissima_intro.wav"],
+"Serenissima_melody_1":["Serenissima_melody_1.wav"],
+"Serenissima_melody_2":["Serenissima_melody_2.wav"],
+"Serenissima_ens_1":["Serenissima_ens_1.wav"],
+"Serenissima_ens_2":["Serenissima_ens_2.wav"],
+"Serenissima_flute":["Serenissima_flute.wav"],
+"Serenissima_violins":["Serenissima_violins.wav"],
+"forestdwelling":["forestdwelling.wav"]
+}
 }
