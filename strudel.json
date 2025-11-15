@@ -1,31 +1,59 @@
 {
 "_base": "https://raw.githubusercontent.com/ChrisZDK/Chaotic/main/",
-"1thespace": "1thespace.wav",
-"1_break": "1_break.wav",
-"2thespace": "2thespace.wav",
-"2_break": "2_break.wav",
-"3_break": "3_break.wav",
-"4_break": "4_break.wav",
-"5_break": "5_break.wav",
-"6_break": "6_break.wav",
-"almostblue": "almostblue.wav",
-"aSpeedy1": "aSpeedy1.wav",
-"atlast1": "atlast1.wav",
-"atlast2wav": "atlast2wav.wav",
-"atlast3": "atlast3.wav",
-"atlast4": "atlast4.wav",
-"barok_voice_break": "barok_voice_break.wav",
-"barok_voice_drop": "barok_voice_drop.wav",
-"barok_voice_lute": "barok_voice_lute.wav",
-"barok_voice_muu": "barok_voice_muu.wav",
-"barok_voice_pain": "barok_voice_pain.wav",
-"barok_voice_shall": "barok_voice_shall.wav",
-"barok_voice_shallall": "barok_voice_shallall.wav",
-"bassoon": "bassoon.wav",
-"breakbeat_71_Fm": "breakbeat_71_Fm.wav",
-"breakcore2_84_B": "breakcore2_84_B.wav",
-"breakcore_84_B": "breakcore_84_B.wav",
-"bSpeedy2": "bSpeedy2.wav",
+  "break": [
+"1_break.wav",
+"2_break.wav",
+"3_break.wav",
+"4_break.wav",
+"5_break.wav",
+"6_break.wav"
+  ],
+  
+  "barok": [
+"barok_voice_break.wav",
+"barok_voice_drop.wav",
+"barok_voice_lute.wav",
+"barok_voice_muu.wav",
+"barok_voice_pain.wav",
+"barok_voice_shall.wav",
+"barok_voice_shallall.wav"
+  ],
+
+  "SpeedyJ": [
+"aSpeedy1.wav",
+"bSpeedy2.wav"
+  ],
+
+  "vox": [
+"bassoon.wav",
+"radicalmind.wav",
+"femi.wav"
+  ],
+
+  "chaotic": [
+"almostblue.wav",
+"atlast1.wav",
+"atlast2.wav",
+"atlast3.wav",
+"atlast4.wav",
+"deepforest.wav",
+"shigeosekito.wav",
+"waystar.wav",
+"1thespace.wav",
+"2thespace.wav",
+"forestdwelling.wav"
+  ],
+  
+"Serenissima_drums": "Serenissima_drums.wav",
+"Serenissima_ens_1": "Serenissima_ens_1.wav",
+"Serenissima_ens_2": "Serenissima_ens_2.wav",
+"Serenissima_flute": "Serenissima_flute.wav",
+"Serenissima_instru": "Serenissima_instru.wav",
+"Serenissima_intro": "Serenissima_intro.wav",
+"Serenissima_melody_1": "Serenissima_melody_1.wav",
+"Serenissima_melody_2": "Serenissima_melody_2.wav",
+"Serenissima_violins": "Serenissima_violins.wav",
+
 "chaos_synth_1": "chaos_synth_1.wav",
 "chaos_synth_2": "chaos_synth_2.wav",
 "chaos_synth_3": "chaos_synth_3.wav",
@@ -41,18 +69,21 @@
 "chaotic_synth_8": "chaotic_synth_8.wav",
 "chaotic_vox_1": "chaotic_vox_1.wav",
 "chaotic_vox_2": "chaotic_vox_2.wav",
-"deepforest": "deepforest.wav",
+
 "dnb_87_bbm": "dnb_87_bbm.wav",
 "dnb_87_Ff": "dnb_87_Ff.wav",
 "dnb_87_Fm": "dnb_87_Fm.wav",
-"femi": "femi.wav",
-"forestdwelling": "forestdwelling.wav",
+
+"breakbeat_71_Fm": "breakbeat_71_Fm.wav",
+"breakcore2_84_B": "breakcore2_84_B.wav",
+"breakcore_84_B": "breakcore_84_B.wav",
 "htechno1_150_B": "htechno1_150_B.wav",
 "htechno2_150_B": "htechno2_150_B.wav",
 "htechno3_150_B": "htechno3_150_B.wav",
 "htechno5_150_B": "htechno5_150_B.wav",
 "htechno6_150_B": "htechno6_150_B.wav",
 "htechno7_150_B": "htechno7_150_B.wav",
+
 "lofi1_102-Am": "lofi1_102-Am.wav",
 "lofifi2-102-Am": "lofifi2-102-Am.wav",
 "lofi_124_Am": "lofi_124_Am.wav",
@@ -61,17 +92,4 @@
 "lofi_91_Bm": "lofi_91_Bm.wav",
 "lofi_93-C": "lofi_93-C.wav",
 "lofi_94_Am": "lofi_94_Am.wav",
-"radicalmind": "radicalmind.wav",
-"Serenissima_drums": "Serenissima_drums.wav",
-"Serenissima_ens_1": "Serenissima_ens_1.wav",
-"Serenissima_ens_2": "Serenissima_ens_2.wav",
-"Serenissima_flute": "Serenissima_flute.wav",
-"Serenissima_instru": "Serenissima_instru.wav",
-"Serenissima_intro": "Serenissima_intro.wav",
-"Serenissima_melody_1": "Serenissima_melody_1.wav",
-"Serenissima_melody_2": "Serenissima_melody_2.wav",
-"Serenissima_violins": "Serenissima_violins.wav",
-"shigeosekito": "shigeosekito.wav",
-"waystar": "waystar.wav",
-
 }
