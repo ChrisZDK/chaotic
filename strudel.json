@@ -1,5 +1,5 @@
 {
-"_base": "https://raw.githubusercontent.com/ChrisZDK/Chaotic/main/",
+"_base": "https://raw.githubusercontent.com/ChrisZDK/chaotic/main/",
   "break": [
 "1_break.wav",
 "2_break.wav",
@@ -30,7 +30,7 @@
 "femi.wav"
   ],
 
-  "chaotic": [
+  "jazzy": [
 "almostblue.wav",
 "atlast1.wav",
 "atlast2.wav",
@@ -54,42 +54,4 @@
 "Serenissima_melody_2": "Serenissima_melody_2.wav",
 "Serenissima_violins": "Serenissima_violins.wav",
 
-"chaos_synth_1": "chaos_synth_1.wav",
-"chaos_synth_2": "chaos_synth_2.wav",
-"chaos_synth_3": "chaos_synth_3.wav",
-"chaos_synth_4": "chaos_synth_4.wav",
-"chaos_synth_5": "chaos_synth_5.wav",
-"chaotic_bass_1": "chaotic_bass_1.wav",
-"chaotic_piano_1": "chaotic_piano_1.wav",
-"chaotic_piano_2": "chaotic_piano_2.wav",
-"chaotic_sax_1": "chaotic_sax_1.wav",
-"chaotic_sax_2": "chaotic_sax_2.wav",
-"chaotic_synth_6": "chaotic_synth_6.wav",
-"chaotic_synth_7": "chaotic_synth_7.wav",
-"chaotic_synth_8": "chaotic_synth_8.wav",
-"chaotic_vox_1": "chaotic_vox_1.wav",
-"chaotic_vox_2": "chaotic_vox_2.wav",
-
-"dnb_87_bbm": "dnb_87_bbm.wav",
-"dnb_87_Ff": "dnb_87_Ff.wav",
-"dnb_87_Fm": "dnb_87_Fm.wav",
-
-"breakbeat_71_Fm": "breakbeat_71_Fm.wav",
-"breakcore2_84_B": "breakcore2_84_B.wav",
-"breakcore_84_B": "breakcore_84_B.wav",
-"htechno1_150_B": "htechno1_150_B.wav",
-"htechno2_150_B": "htechno2_150_B.wav",
-"htechno3_150_B": "htechno3_150_B.wav",
-"htechno5_150_B": "htechno5_150_B.wav",
-"htechno6_150_B": "htechno6_150_B.wav",
-"htechno7_150_B": "htechno7_150_B.wav",
-
-"lofi1_102-Am": "lofi1_102-Am.wav",
-"lofifi2-102-Am": "lofifi2-102-Am.wav",
-"lofi_124_Am": "lofi_124_Am.wav",
-"lofi_60-Em": "lofi_60-Em.wav",
-"lofi_87-F": "lofi_87-F.wav",
-"lofi_91_Bm": "lofi_91_Bm.wav",
-"lofi_93-C": "lofi_93-C.wav",
-"lofi_94_Am": "lofi_94_Am.wav",
 }
